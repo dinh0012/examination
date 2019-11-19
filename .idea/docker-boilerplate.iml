@@ -2,8 +2,13 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/php-ci/src" isTestSource="false" packagePrefix="Pci\CI\" />
       <sourceFolder url="file://$MODULE_DIR$/php-ci/test" isTestSource="true" packagePrefix="Test\" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/php-ci/test" isTestSource="true" packagePrefix="Test\" />
+      <sourceFolder url="file://$MODULE_DIR$/php-ci/src" isTestSource="false" packagePrefix="Pci\CI\" />
+>>>>>>> 5399cd9ae3560f47a6882758b3e8ad69128e7023
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
