@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php-ci/var/composer/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
